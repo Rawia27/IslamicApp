@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Islami App</string>
+    <string name="islami_title">Islami</string>
+    <string name="no_title"></string>
+    <string name="quran_title">Quran</string>
+    <string name="hadeth_title">Hadeth</string>
+    <string name="sebha_title">Sebha</string>
+    <string name="radio_title">Radio</string>
+    <string name="tasbih_type">عدد التسبيحات</string>
+    <string name="counter_tx">30</string>
+    <string name="tasbih_name">سبحان الله</string>
+</resources>
